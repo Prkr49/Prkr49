@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:36BCF7&height=200&section=header&text=Prince%20Kumar&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Undergraduate&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:36BCF7&height=180&section=header&text=Prince%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" />
 
 <a href="https://github.com/Prkr49">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=680&lines=Computer+Science+Undergraduate;MERN+Stack+Developer;Python+%26+AI+Enthusiast;Competitive+Programmer" alt="Typing SVG" />
@@ -76,20 +76,16 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Prkr49&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prkr49&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prkr49&theme=tokyonight" width="100%" alt="Profile Details" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prkr49&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prkr49&theme=tokyonight" alt="GitHub Stats" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prkr49&theme=tokyonight" alt="Most Used Languages" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prkr49&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Prkr49&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="Trophies" />
+<img src="https://streak-stats.demolab.com/?user=Prkr49&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
