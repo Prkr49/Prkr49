@@ -72,22 +72,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-<div align="center">
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| [**AI-Chat-Assistant**](https://github.com/Prkr49/AI-Chat-Assistant) | Modular voice assistant that runs commands, automates system tasks, and searches the web via natural language | Python, OpenAI |
-| [**CareerPilot**](https://github.com/Prkr49/CareerPilot) | Full-stack AI career assistant to track applications, analyze resumes, and give personalized guidance | JavaScript, Gemini, RAG |
-| [**Hostel-Connect**](https://github.com/Prkr49/Hostel-Connect) | Hostel management system with role-based auth for records, attendance, complaints, and invoices | MERN Stack |
-| [**Facial-Emotion-Recognition-CNN**](https://github.com/Prkr49/Facial-Emotion-Recognition-CNN) | CNN-based real-time facial emotion recognition web app | Python, TensorFlow, OpenCV, Streamlit |
-| [**python-upi-qr-system**](https://github.com/Prkr49/python-upi-qr-system) | Generate dynamic UPI QR codes for PhonePe, Paytm, Google Pay, and more | Python |
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -117,9 +101,6 @@
 
 <a href="https://leetcode.com/u/codz49/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-<a href="https://codeforces.com/profile/codewarrior_7">
-  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
 </a>
 <a href="https://www.geeksforgeeks.org/profile/codewarrior49?tab=overview">
   <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
